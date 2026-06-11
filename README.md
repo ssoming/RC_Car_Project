@@ -2,7 +2,7 @@
  
 > STM32F411RETx 기반 블루투스 수동 조종 + 초음파 3방향 자율 장애물 회피 RC카
  
-[![Notion](https://img.shields.io/badge/프로젝트%20상세%20보기-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/RC-Car-317b5d65c68c80e0a92dd644f85a637f?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-프로젝트%20상세%20보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/RC-Car-317b5d65c68c80e0a92dd644f85a637f?source=copy_link)
  
 ---
  
